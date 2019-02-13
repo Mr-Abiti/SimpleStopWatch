@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SimpleStopWatch</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="Reset">Reset</string>
+    <string name="textview">TextView</string>
 </resources>
